@@ -1,4 +1,4 @@
-package db;
+package model.entities;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -9,7 +9,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
 
-public class DB {
+import model.exceptions.DbException;
+
+public class DBConnections {
 
 	private static Connection conn = null;
 	
