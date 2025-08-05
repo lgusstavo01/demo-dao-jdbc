@@ -101,4 +101,4 @@ git clone https://github.com/seu-usuario/demo-dao-jdbc.git
 
 ## 👨‍💻 Autor
 
-- **Everton Nascimento** – [LinkedIn](https://linkedin.com)
+- **Luiz Gustavo** – [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-379517258/)
