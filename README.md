@@ -89,16 +89,6 @@ git clone https://github.com/seu-usuario/demo-dao-jdbc.git
 3. Ajuste as credenciais no arquivo `db.properties`.
 4. Execute a classe `Program` em `application`.
 
----
-
-## 📌 Próximos Passos
-
-- [ ] Finalizar CRUD completo para `Department`
-- [ ] Implementar tratamento customizado para erros de integridade referencial
-- [ ] Adicionar script SQL inicial com dados para testes
-
----
-
 ## 👨‍💻 Autor
 
 - **Luiz Gustavo** – [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-379517258/)
